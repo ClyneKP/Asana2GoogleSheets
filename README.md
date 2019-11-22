@@ -8,4 +8,4 @@ Run .py file via the command line, navigate to the directory of the .py file, th
 
 You may be prompted by Google to authenticate user account
 
-Eg, type the following... 'asana2csv.py #personal-access-token'
+Eg, type the following... 'Asana2GoogleSheets.py #personal-access-token'
